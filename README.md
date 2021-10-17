@@ -19,15 +19,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nino-chan02"><img title="Author" src="https://img.shields.io/badge/Authors-𝐀𝐌𝐄𝐄𝐍 𝐒𝐄𝐑 | 𝐁𝐄𝐌𝐈𝐍 𝐒𝐄𝐑-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Nino-chan02"><img title="Author" src="https://img.shields.io/badge/Authors-𝖐𝖗𝖎𝖟 𝖘𝖊𝖗 | 𝖐𝖗𝖎𝖟 𝖘𝖊𝖗-purple.svg?style=for-the-badge&logo=github" /></a>
 
 <h3 align="center">𝖐𝖗𝖎𝖟 𝖘𝖊𝖗</h3>
 <p align="center">
-  <a href="https://github.com/blooper-ser"><img src="https://www.linkpicture.com/q/IMG_20211002_172633.jpg" height="128" width="128" /></a>
+  <a href="https://github.com/blooper-ser"><img src="https://www.linkpicture.com/view.php?img=LPic616bbf13b75fa1979813758.jpg" height="128" width="128" /></a>
 
 <h3 align="center">𝖐𝖗𝖎𝖟 𝖘𝖊𝖗</h3>
 <p align="center">
-<a href="https://github.com/Dilmano"><img src="https://i.imgur.com/yCSQaRR.jpg" height="128" width="128" /></a>
+<a href="https://github.com/Dilmano"><img src="https://www.linkpicture.com/view.php?img=LPic616bbf13b75fa1979813758.jpg" height="128" width="128" /></a>
 
 
 <p align="center">
