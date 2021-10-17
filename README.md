@@ -1,9 +1,11 @@
 <div align="center">
 <img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="NinoBot" width="500" />
 
-# NinoBot
+# AMEEN-SER-BOT
 
-> NinoBot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> AMEEN-SER-BOT is a multipurpose WhatsApp bot using Adiwajshing-Bail## `Deploy`
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dilmano/Ameen-Ser-OFC/)
 >
 >
 
@@ -17,7 +19,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nino-chan02"><img title="Author" src="https://img.shields.io/badge/Author-Marz-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Nino-chan02"><img title="Author" src="https://img.shields.io/badge/Authors-𝐀𝐌𝐄𝐄𝐍 𝐒𝐄𝐑 | 𝐁𝐄𝐌𝐈𝐍 𝐒𝐄𝐑-purple.svg?style=for-the-badge&logo=github" /></a>
+
+<h3 align="center">𝕭𝖑𝖔𝖔𝖕𝖊𝖗 𝕾𝖊𝖗</h3>
+<p align="center">
+  <a href="https://github.com/blooper-ser"><img src="https://www.linkpicture.com/q/IMG_20211002_172633.jpg" height="128" width="128" /></a>
+
+<h3 align="center">𝕬𝖒𝖊𝖊𝖓 𝕾𝖊𝖗</h3>
+<p align="center">
+<a href="https://github.com/Dilmano"><img src="https://i.imgur.com/yCSQaRR.jpg" height="128" width="128" /></a>
+
 
 <p align="center">
   <a href="https://github.com/Nino-chan02/NinoWangy#requirements">Requirements</a> •
@@ -42,8 +53,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/KANNANSIR/kriz- ser-ofc-
-cd kriz-ser-ofc-
+git clone https://github.com/Nino-chan02/NinoWangy
+cd NinoWangy
 npm install
 node main
 ```
@@ -52,8 +63,8 @@ node main
 termux-setup-storage
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg libwebp 
-git clone https://github.com//kriz-ser-ofc-
-cd kriz-ser-ofc-
+git clone https://github.com/Nino-chan02/NinoWangy
+cd NinoWangy
 npm install
 node main
 ```
