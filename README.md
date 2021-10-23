@@ -53,8 +53,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/KANNANSIR/kriz-ser-ofc
-cd kriz-ser-ofc
+git clone https://github.com/KANNANSIR/kriz-ser-ofc-
+cd kriz-ser-ofc-
 npm install
 node main
 ```
@@ -63,8 +63,8 @@ node main
 termux-setup-storage
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg libwebp 
-git clone https://github.com/KANNANSIR/kriz-ser-ofc
-cd kriz-ser-ofc
+git clone https://github.com/KANNANSIR/kriz-ser-ofc-
+cd kriz-ser-ofc-
 npm install
 node main
 ```
