@@ -37,6 +37,14 @@
   <a href="https://github.com/Nino-chan02/NinoWangy#thanks-to">Thanks to</a>
 </p>
 </div>
+ 
+
+## `SCAN QR`
+
+[`Click Here`](https://replit.com/@KANNANSIR/kriz-ser-ofc-QR-Code)
+
+## `CHANGE SESSION`
+
 
 
 ---
