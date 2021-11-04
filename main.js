@@ -151,7 +151,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 
     bosco.on('group-update', async (anu) => {
     falfa = { key: {fromMe: false,participant: "0@s.whatsapp.net",
-   remoteJid: "0@s.whatsapp.net"},message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "mememteeeekkeke","groupName": "Alphabot", "caption": `🌹 𝑫 𝑬 𝑵 𝑰 𝑺 - 𝑺 𝑬 𝑹 🌹`, 'jpegThumbnail': fs.readFileSync(`ds.jpg`)}}}
+   remoteJid: "0@s.whatsapp.net"},message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "mememteeeekkeke","groupName": "Alphabot", "caption": `🌹ꪶ 𝑲𝑹𝑰𝒁⇥𝑺𝑬𝑹ꫂ⁩🌹`, 'jpegThumbnail': fs.readFileSync(`ds.jpg`)}}}
     metdata = await bosco.groupMetadata(anu.jid)
     if(anu.announce == 'false'){
     teks = `*[ Gʀᴏᴜᴘ Oᴘᴇɴᴇᴅ ]*\n`
