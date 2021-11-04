@@ -41,16 +41,16 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
          
     const starts = async (bosco = new WAConnection()) => {
 	bosco.logger.level = 'warn'
-	console.log(color(figlet.textSync('BOSCO BY DENIS', {
+	console.log(color(figlet.textSync('KRIZ SER OFC', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
 		width: 80,
 		whitespaceBreak: false
 	}), 'yellow'))
-	console.log(color('[DENIS]', 'cyan'), color('WELCOME', 'white'))
+	console.log(color('[KRIZ]', 'cyan'), color('WELCOME', 'white'))
 	console.log(color('[SER]', 'cyan'), color('BOT RUNNING', 'yellow'))
-	bosco.browserDescription = ["Denis Dx - [DS-MODS]", "firefox", "3.0.0"];
+	bosco.browserDescription = ["KRIZ SER - [KRIZ SER OFC]", "firefox", "3.0.0"];
 
 	// Menunggu QR
 	bosco.on('qr', () => {
