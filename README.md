@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="NinoBot" width="500" />
+<img src="https://i.imgur.com/o9ySNtz.jpeg" alt="NinoBot" width="500" />
 
 # KRIZ SER BOT
 
