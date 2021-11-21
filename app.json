@@ -1,12 +1,7 @@
 {
   "name": "whatsapp-bot",
   "description": "whatsapp bot build with nodejs",
-  "repository": "https://github.com/KANNANSIR/kriz-ser-ofc-",
-  "logo": "https://c.top4top.io/p_2069qnvob1.jpg",
+  "repository": "https://github.com/KANNANSIR/KRIZ-SIR",
+  "logo": "https://i.imgur.com/o9ySNtz.jpeg"        ,
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
-  "buildpacks": [{
-    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
-  }, {
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-  }]
 }
