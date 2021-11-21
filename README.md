@@ -38,10 +38,14 @@
 </p>
 </div>
  
+## SIMPLE METHOD
+    
+## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/BOSCO/)
 
-## `SCAN QR`
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SIR-Qr-code?v=1)
 
-[`Click Here`](https://replit.com/@KANNANSIR/kriz-ser-ofc-QR-Code)
+
 
 ## `CHANGE SESSION`
 
