@@ -15,7 +15,7 @@
 <p align="center">
  <a href="https://github.com/KRIZsir"><img title="Author" src="https://img.shields.io/badge/Author-KRIZ-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919633687665?text=Hello%20KRIZ%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-KRIZ-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp"https://chat.whatsapp.com/IwOZg4VGdJq4lTH12aPOzc"/></a> <a href=""><img title="Author" src="https://img.shields.io/badge/INSTAGRAM-kannanbro_f_f-blue.svg?style=for-the-badge&logo=Instagram" /></a>
+<a href="https://chat.whatsapp.com/IwOZg4VGdJq4lTH12aPOzc"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Instagram-kannanbro_f_f-violet.svg?style=for-the-badge&logo=Instagram" /></a>
 </p>
 
 
