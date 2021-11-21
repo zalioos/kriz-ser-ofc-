@@ -1,16 +1,23 @@
+#### KRIZ - SER - OFC 
+
+
+
 <div align="center">
-<img src="https://telegra.ph/file/ecdaa90c60e7f86ec0dc7.jpg" alt="KRIZ" width="300" />
+<img src="ds.jpg" alt="KRIZ" width="170" />
 
-# KRIZ SER
+## KRIZ SIR 🌝💝
 
->
->
->
 </div>
+
 <p align="center">
-  <a href="https://instagram.com/xy_lxx_."><img src="https://img.shields.io/badge/Instagram-kannanbro_f_f?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/919633687665"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="##"><img title="SELF-BOT" src="KRIZ-BOT-V1?label=Language&message=English&color=blue"></a>
 </p>
+<p align="center">
+ <a href="https://github.com/KRIZsir"><img title="Author" src="https://img.shields.io/badge/Author-KRIZ-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919633687665?text=Hello%20KRIZ%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-KRIZ-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+<p align="center">
+<a href="https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-KRIZSIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
+</p>
+
 
 ## SIMPLE METHOD 
 ## Deploy
