@@ -1,5 +1,16 @@
 <div align="center">
-<img src="https://i.imgur.com/o9ySNtz.jpeg" alt="NinoBot" width="500" />
+<img src="https://telegra.ph/file/ecdaa90c60e7f86ec0dc7.jpg" alt="KRIZ" width="300" />
+
+# KRIZ SER
+
+>
+>
+>
+</div>
+<p align="center">
+  <a href="https://instagram.com/xy_lxx_."><img src="https://img.shields.io/badge/Instagram-kannanbro_f_f?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/919633687665"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
 
 ## SIMPLE METHOD 
 ## Deploy
