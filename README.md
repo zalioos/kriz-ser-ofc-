@@ -50,8 +50,8 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/KANNANSIR/kriz-ser-ofc-/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/KANNANSIR/kriz-ser-ofc-/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/KANNANSIR/kriz-ser-ofc-/blob/master/settings.json#L136)
+- CHANGE OWNER NAME [Here](https://github.com/KANNANSIR/kriz-ser-ofc-/blob/master/Bosco.js#L138)
 
 
 
