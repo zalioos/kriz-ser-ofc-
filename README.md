@@ -26,7 +26,32 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SIR-Qr-code?v=1)
 
 
+# Requirements
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
 
+## `ADD BUILDPACK`
+
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+```
+
+https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+```
+
+## `CHANGE SESSION`
+
+[`Click Here`](https://github.com/KANNANSIR/kriz-ser-ofc-/blob/master/Denis.json#L1)
+
+
+## `SETTING`
+
+- CHANGE OWNER NUMBER [Here](https://github.com/KANNANSIR/kriz-ser-ofc-/blob/master/index.js#L136)
+- CHANGE OWNER NAME [Here](https://github.com/KANNANSIR/kriz-ser-ofc-/blob/master/index.js#L138)
 
 
 
