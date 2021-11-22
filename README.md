@@ -67,7 +67,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 git clone https://github.com/KANNANSIR/kriz-ser-ofc-
 cd kriz-ser-ofc-
 npm install
-node main
+npm start
 ```
 ## For Termux
 ```bash
@@ -77,6 +77,7 @@ pkg install nodejs git ffmpeg libwebp
 git clone https://github.com/KANNANSIR/kriz-ser-ofc-
 cd kriz-ser-ofc-
 npm install
-node main
+npm update
+npm start
 ```
 ## A PUBLIC BOT BY KRISHNADAS
