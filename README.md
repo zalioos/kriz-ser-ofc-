@@ -58,23 +58,5 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 
 
-# HARD METHOD
-## For Windows
-```bash
-git clone https://github.com/KANNANSIR/kriz-ser-ofc-
-cd kriz-ser-ofc-
-npm install
-npm start
-```
-## For Termux
-```bash
-termux-setup-storage
-pkg update && pkg upgrade
-pkg install nodejs git ffmpeg libwebp 
-git clone https://github.com/KANNANSIR/kriz-ser-ofc-
-cd kriz-ser-ofc-
-npm install
-npm update
-npm start
-```
-## A PUBLIC BOT BY KRISHNADAS
+# For Android User Run With Railway:
+[![click-here](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/KANNANSIR/kriz-ser-ofc-.git)
