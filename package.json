@@ -1,6 +1,6 @@
 {
-  "name": "Bosco",
-  "version": "1.0.0",
+  "isim" : "alioos" , 
+  "versiyon" : "1.0.0" ,
   "description": "Gak Ada",
   "main": "main.js",
   "directories": {
