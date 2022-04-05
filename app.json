@@ -1,6 +1,6 @@
 {
-  "name": "whatsapp-bot",
-  "description": "whatsapp bot build with nodejs",
+  "isim" : zalioosBbot
+  "description" : "whatsapp botu nodejs ile inşa edildi" ,
   "repository": "https://github.com/KANNANSIR/kriz-ser-ofc-",
   "logo": "https://telegra.ph/file/ecdaa90c60e7f86ec0dc7.jpg"        ,
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
